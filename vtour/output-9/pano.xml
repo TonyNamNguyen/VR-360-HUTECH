@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node1">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:31 AM" description="" source="" title="IMG_20231113_103154_00_027.insp" tags="360hutech-IMG" comment="" latitude="10.85535252" longitude="106.78515405" heading="0" customnodeid="" nodeid="node1" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Nhà Đa năng 1" distance="10.1675" pan="-179.88" skinid="ht_node" id="Point01" url="{node2}" target="_blank" tilt="-20.83"/>
+      <hotspot description="" title="Gym" distance="4.63201" pan="-2.87" skinid="ht_node" id="Point02" url="{node3}" target="" tilt="0.68"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" pan="357.100" id="Element01" width="720" clickmode="4" rotz="0.000" handcursor="0" stretch="1.000" roty="0.000" tilt="16.030" fov="25.003" height="480">
+        <source url="media/bongchuyen1.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="2992" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2992">
+      <level width="2992" preload="0" predecode="0" height="2992"/>
+      <level width="1496" preload="0" predecode="0" height="1496"/>
+      <level width="748" preload="0" predecode="0" height="748"/>
+      <level width="374" preload="1" predecode="1" height="374"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:32 AM" description="" source="" title="IMG_20231113_103255_00_028.insp" tags="360hutech-IMG" comment="" latitude="10.85541311" longitude="106.78522378" heading="0" customnodeid="" nodeid="node2" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Nhà Đa năng 2" distance="10.1675" pan="-8.54" skinid="ht_node" id="Point01" url="{node1}" target="" tilt="16.56"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" pan="-9.120" id="Element02" width="720" clickmode="4" rotz="0.000" handcursor="0" stretch="1.000" roty="0.000" tilt="28.780" fov="22.131" height="480">
+        <source url="media/bongchuyen1.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:29 AM" description="" source="" title="" tags="360hutech-IMG" comment="" latitude="10.85533935" longitude="106.78511381" heading="0" customnodeid="" nodeid="node3" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Phòng thể chất" distance="9.19379" pan="-7.2" skinid="ht_node" id="Point01" url="{node4}" target="" tilt="-13.51"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" pan="-7.430" id="Element01" width="620" clickmode="4" rotz="0.000" handcursor="0" stretch="1.000" roty="0.000" tilt="8.760" fov="19.632" height="413">
+        <source url="media/gym.jpg"/>
+      </image>
+      <image rotx="0.000" pan="-190.750" id="Element03" width="620" clickmode="4" rotz="0.000" handcursor="0" stretch="1.000" roty="0.000" tilt="-25.470" fov="20.132" height="413">
+        <source url="media/gym3.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:23 AM" description="" source="" title="" tags="360hutech-IMG" comment="" latitude="10.85541048" longitude="106.78515673" heading="0" customnodeid="" nodeid="node4" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Nhà đa năng" distance="6.4515" pan="-181.23" skinid="ht_node" id="Point01" url="{node1}" target="" tilt="-24.91"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" description="" source="" title="" tags="" comment="" latitude="" longitude="" heading="0" customnodeid="" nodeid="master" author="" info="" copyright=""/>
+  </masternode>
+  <map mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" type="web" id="Map01" mapmaxzoom="18" mapstyle="streets"/>
+</tour>

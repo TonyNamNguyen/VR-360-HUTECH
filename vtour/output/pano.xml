@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18043" appversion="6.1.11" start="node7">
+  <panorama id="node7">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="640" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="640">
+      <level width="640" preload="0" predecode="0" height="640"/>
+      <level width="320" preload="1" predecode="1" height="320"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="" description="" source="" title="" tags="Pano2VR6" comment="" latitude="10.85538514" longitude="106.78519563" heading="0" customnodeid="" nodeid="node7" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Sân bóng E1" distance="14.1859" pan="-183.66" skinid="ht_node" id="Point01" url="{node3}" target="" tilt="-4.56"/>
+      <hotspot description="" title="Hồ cá" distance="8.81036" pan="-273.03" skinid="ht_node" id="Point02" url="{node5}" target="" tilt="-0.5"/>
+      <hotspot description="" title="Sân bóng E2" distance="14.4204" pan="-88.46" skinid="ht_node" id="Point03" url="{node4}" target="" tilt="-0.69"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" pan="0.090" id="Element01" width="5472" clickmode="1" rotz="0.000" handcursor="0" stretch="1.000" roty="0.000" tilt="-16.580" fov="12.581" height="3648">
+        <source url="media/thumbsanhe1.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.200" returntohorizon="0.000" noderandom="0" nodedelay="16.00" nodefilter="" enabled="1" delay="5.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="2992" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="2992">
+      <level width="2992" preload="0" predecode="0" height="2992"/>
+      <level width="1496" preload="0" predecode="0" height="1496"/>
+      <level width="748" preload="0" predecode="0" height="748"/>
+      <level width="374" preload="1" predecode="1" height="374"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 9:57 AM" description="" source="" title="IMG_20231113_095748_00_006.insp" tags="Pano2VR6" comment="" latitude="10.85548423" longitude="106.78511381" heading="0" customnodeid="" nodeid="node3" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="test" title="Sảnh E1" distance="14.1859" pan="-191.45" skinid="ht_node" id="Point01" url="{node7}" target="0.9/-0.7/70.0" tilt="-14.6"/>
+    </hotspots>
+    <media>
+      <image rotx="-14.000" pan="-274.150" id="Element01" width="620" clickmode="4" rotz="-8.000" handcursor="1" stretch="1.000" roty="0.000" tilt="-0.180" fov="37.850" height="413">
+        <source url="media/HUTE8164(1).jpg"/>
+      </image>
+      <image rotx="-3.000" pan="-6.630" id="Element02" width="620" clickmode="4" rotz="0.000" handcursor="0" stretch="1.000" roty="8.000" tilt="6.390" fov="25.310" height="413">
+        <source url="media/bongr.jpg"/>
+      </image>
+      <image rotx="-7.000" pan="-100.710" id="Element03" width="620" clickmode="4" rotz="15.000" handcursor="0" stretch="1.000" roty="-6.000" tilt="-10.610" fov="49.980" height="413">
+        <source url="media/br1.jpg"/>
+      </image>
+    </media>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.200" returntohorizon="0.000" noderandom="0" nodedelay="16.00" nodefilter="" enabled="1" delay="5.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:18 AM" description="" source="" title="" tags="Pano2VR6" comment="" latitude="10.85530775" longitude="106.78508967" heading="0" customnodeid="" nodeid="node4" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Sảnh E1" distance="14.4204" pan="-281.27" skinid="ht_node" id="Point01" url="{node7}" target="" tilt="-0.51"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.200" returntohorizon="0.000" noderandom="0" nodedelay="16.00" nodefilter="" enabled="1" delay="5.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:16 AM" description="" source="" title="IMG_20231113_101601_00_019.insp" tags="Pano2VR6" comment="" latitude="10.85541048" longitude="106.78527207" heading="0" customnodeid="" nodeid="node5" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Sảnh E1" distance="8.81036" pan="-335.92" skinid="ht_node" id="Point01" url="{node7}" target="" tilt="10.79"/>
+      <hotspot description="" title="Canteen" distance="9.35853" pan="-156.86" skinid="ht_node" id="Point02" url="{node8}" target="" tilt="-18.75"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.200" returntohorizon="0.000" noderandom="0" nodedelay="16.00" nodefilter="" enabled="1" delay="5.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" leveltilesize="510" levelbias="0.400" overlap="1" width="1000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" height="1000">
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="-180" tilt="-60.4952" fovpixel="2"/>
+      <max pan="180" tilt="60.4952" fovfisheye="360" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata datetime="11/13/2023 10:15 AM" description="" source="" title="IMG_20231113_101503_00_018.insp" tags="Pano2VR6" comment="" latitude="10.85543945" longitude="106.78535253" heading="0" customnodeid="" nodeid="node8" author="" info="" copyright=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" wordwrap="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" width="180" border="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" borderradius="1" enabled="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot description="" title="Hồ cá" distance="9.35853" pan="-194.28" skinid="ht_node" id="Point01" url="{node5}" target="" tilt="-19.41"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomafterinfov="90" zoomspeed="2" zoomin="0" blendcolor="0x000000" blendtime="1" enabled="1" zoomafteroutfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.200" returntohorizon="0.000" noderandom="0" nodedelay="16.00" nodefilter="" enabled="1" delay="5.00" startloaded="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" invertcontrol="1" contextprojections="0" lockedkeyboard="0" hideabout="0" dblclickfullscreen="0" invertwheel="0" sensitivity="8" lockedkeyboardzoom="0" rubberband="0" lockedwheel="0" contextfullscreen="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" description="" source="" title="" tags="" comment="" latitude="" longitude="" heading="0" customnodeid="" nodeid="master" author="" info="" copyright=""/>
+  </masternode>
+  <map mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title="" type="web" id="Map01" mapmaxzoom="18" mapstyle="streets"/>
+</tour>
